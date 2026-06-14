@@ -1,0 +1,10 @@
+{
+  "name": "com.mc.corekit",
+  "version": "0.1.0",
+  "displayName": "CoreKit",
+  "description": "경량 서비스/부트스트랩 프레임워크 — 순수 C# 로직과 Mono 경계를 분리하고, 모듈러 Installer + 라이프사이클 커널로 진입점/서비스 제공을 구조화한다.",
+  "unity": "6000.3",
+  "author": {
+    "name": "Kim Mincheol"
+  }
+}
